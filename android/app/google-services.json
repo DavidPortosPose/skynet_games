@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "13451851372",
+    "firebase_url": "https://skynet-games-database-db755.firebaseio.com",
+    "project_id": "skynet-games-database-db755",
+    "storage_bucket": "skynet-games-database-db755.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13451851372:android:40387596f5ba28791bca49",
+        "android_client_info": {
+          "package_name": "com.proyecto.skynet_games"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13451851372-olk1sl19q2ggro00hudgbkvtdmcm3m20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByAYAP3TF0h_PuoG8rCuu6oHGLy-s_kM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13451851372-olk1sl19q2ggro00hudgbkvtdmcm3m20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
